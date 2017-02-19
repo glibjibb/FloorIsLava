@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/MaxLevel.unity
+  isLoaded: 1
+  isActive: 1

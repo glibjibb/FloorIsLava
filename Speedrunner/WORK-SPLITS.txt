@@ -1,0 +1,28 @@
+Elizabeth Renn:
+  - Title screen
+  - Level design
+  - UI fixes
+  - Quick testing and bug fixes
+  - Sinking Objects
+
+Spencer Franklin:
+  - Game Art (sprite collection and seperation)
+  - Animated lava sprite
+  - Level Design 
+  - UI design
+
+Max Rais:
+  - Design Doc
+  - Character Controller configuration
+  - Camera and endgame setup
+  - Level Design and UI
+
+David Fasano:
+  - Level 3 Design
+  - Character controller tweaks - walljumps
+  - Bounce platforms
+  - Level progression 
+	- keep track of times
+	- keep audio playing
+	- switch between scenes
+  - Run replay system

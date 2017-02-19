@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ReplayBot.cs">
+    <Files>
+      <File FileName="Assets\Scripts\KeepScore.cs" Line="20" Column="25" />
+      <File FileName="Assets\Scripts\FloatInLava.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DisplayScores.cs" Line="29" Column="60" />
+      <File FileName="Assets\Scripts\ReplayBot.cs" Line="13" Column="57" />
+      <File FileName="Assets\CharacterController2D\CharacterController2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DemoScene.cs" Line="186" Column="110" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
